@@ -5,3 +5,4 @@ dependencies:
 - alias: preview
   name: goqk
   repository: file://../goqk
+
